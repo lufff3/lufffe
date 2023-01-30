@@ -16,12 +16,10 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
-    
 </div>
-
  
   ![Snake animation](https://github.com/lufffe/lufffe/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
-#[![readme](https://github-readme-stats.vercel.app/api/pin/?username=lufffe&repo=lufffe&theme=react)](https://github.com/lufffe/lufffe)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=lufffe&repo=lufffe&theme=react)](https://github.com/lufffe/lufffe)
