@@ -8,9 +8,4 @@
 
   <a href="https://www.instagram.com/luffe_sec/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernando-costa-8271751bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
- 
 </div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=lufffe&repo=lufffe&theme=react)](https://github.com/lufffe/lufffe)
