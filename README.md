@@ -27,10 +27,9 @@
   
  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmirandaxl&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LuFFe&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=LuFFe&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
