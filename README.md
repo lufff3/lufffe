@@ -25,3 +25,14 @@
 <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">  
 <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">  
   
+# 🔥 Frameworks:
+ <img width="40" display="block" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"> <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg">  
+ 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmirandaxl&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Gabrielmirandaxl&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
