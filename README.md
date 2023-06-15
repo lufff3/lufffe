@@ -7,7 +7,7 @@
 - 🤔 Estou procurando ajuda com: Cyber Security, como me tornar um profissional muito bom nessa área.
 - 📫 Como entrar em contato comigo: Pelo Instagram.
 - 😄 Hobby: Fazer uns CTF's, faço também alguns desafios de Dev.
-#- ⚡ Curiosidade: ..
+
 
 <div>
   <a href="https://github.com/lufffe">
