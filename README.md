@@ -18,11 +18,12 @@
 </div>
 
 # 💻 Tech Stack:
-<img width="40" display="block" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"><img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">  
-<img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">  
-<img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">  
-<img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">  
-<img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">  
+<img width="40" display="block" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+<img width="40" display="block" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"
+<!--<img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"> -->
+<!--<img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">  -->
+<!--<img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">  -->
+<!--<img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">  -->
   
  
  
